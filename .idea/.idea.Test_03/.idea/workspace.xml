@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e27517f-4461-4845-837a-2659ec1a9a4f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CapsulePlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InputController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CapsulePlayerView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/24CB545F-0FDA-44D7-A6FB-DC3F90B29DFB/be/fe871cad/GUI.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateHost.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BaseCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CapsulePlayerCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerScore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CapsulePlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/898512DD-B9B7-4303-996C-5D2E8D378F73/bf/95ad096c/Uri.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RotationSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ServerCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/24CB545F-0FDA-44D7-A6FB-DC3F90B29DFB/65/6f862c84/GUILayout.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IExecute.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RoomPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/IExecute.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RotationSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CapsulePlauerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ListExecuteObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkClient.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ServerCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BaseCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CustumNetworkManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CreateHost.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CustomNetworkManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CustomNetworkRoom.cs" />
+        <option value="$PROJECT_DIR$/Assets/Mirror/Components/NetworkRoomPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Scripts/PlayerScore.cs" />
+        <option value="$PROJECT_DIR$/Assets/Mirror/Components/NetworkRoomManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RoomPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CustomNetworkRoomManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScore.cs" />
+        <option value="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Scripts/RandomColor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CapsulePlayerCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CapsulePlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InputController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CapsulePlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BasePlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CapsulePlayerView.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GUo0WK5lvuUooYJucwNjnwFX6X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$USER_HOME$/Desktop/TestMirror\Test_03.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Ernest\Desktop\TestMirror" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e27517f-4461-4845-837a-2659ec1a9a4f" name="Default Changelist" comment="" />
+      <created>1666452303843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666452303843</updated>
+      <workItem from="1666452309541" duration="8002000" />
+      <workItem from="1666538462803" duration="15142000" />
+      <workItem from="1666611159464" duration="16877000" />
+      <workItem from="1666722164519" duration="1732000" />
+      <workItem from="1666769402002" duration="14616000" />
+      <workItem from="1666873521597" duration="19372000" />
+      <workItem from="1667058293374" duration="57682000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="788" y="194" key="RiderGenerateDialog" timestamp="1666613577476">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="788" y="194" key="RiderGenerateDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1666613577476" />
+    <state x="935" y="9" width="976" height="1027" key="dock-window-1" timestamp="1667137597982">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="935" y="9" width="976" height="1027" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1667137597982" />
+  </component>
+</project>
